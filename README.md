@@ -32,7 +32,7 @@ I'm a B.Tech CSE (AI & ML) student passionate about building scalable backend sy
 
 - 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-416134301/
 - 🌐 Portfolio: https://my-portfolio-beta-eight-58.vercel.app/
-- 📧 Email: aksingh1230@gmail.com
+- 📧 Email: aksinghbgp1230@gmail.com
 
 ---
 
